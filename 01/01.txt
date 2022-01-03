@@ -1,0 +1,14 @@
+
+1. (!(10<5) && 10 >= (5*2)) == true
+
+2. (!(5 == c) || 5 !== 5) == false
+
+3. (d == false && 10-7 > 5 && d)== false
+
+4. (a && b && c)== true
+
+5. (!a || !d == true || !d)== true
+
+6. (a >= (b-5) && 0)== false
+
+7. (arr || false) == fasle
